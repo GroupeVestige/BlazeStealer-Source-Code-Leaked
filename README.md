@@ -1,6 +1,15 @@
 # BlazeStealer-Source-Code-Leaked
 BlazeStealer Source Code Leaked by [VestigeGroup](https://discord.gg/2RyM28f3EC)
 
+## Zip file includes:
+<img width="139" height="105" alt="image" src="https://github.com/user-attachments/assets/f7a8c588-c1a5-40f1-8e79-1f7bf612284c" />
+RemotePC folder:
+<img width="89" height="83" alt="image" src="https://github.com/user-attachments/assets/2da23f88-96c1-48a1-ace3-a01218d174e7" />
+Client folder:
+<img width="110" height="73" alt="image" src="https://github.com/user-attachments/assets/4d7b634b-a0a8-4734-bb2f-23210b66fa8a" />
+
+
+
 ## Disclaimer ⚠️
 This repository is provided for educational purposes only. The use of these scripts for any illegal activities, including unauthorized access to systems or services, is strictly prohibited. The Vestige Group is not responsible for any actions taken by users of this software. Additionally, this software is provided "as is". Users are advised to review and test the scripts in a controlled environment before use.
 
