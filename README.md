@@ -1,5 +1,5 @@
 # BlazeStealer-Source-Code-Leaked
-BlazeStealer Source Code Leaked by [VestigeGroup](https://discord.gg/2RyM28f3EC)
+BlazeStealer Source Code Leaked by [VestigeGroup](https://discord.gg/kj8CqU77Hj)
 
 ## Zip file includes:
 <img width="139" height="105" alt="image" src="https://github.com/user-attachments/assets/f7a8c588-c1a5-40f1-8e79-1f7bf612284c" />
@@ -71,4 +71,4 @@ This repository is provided for educational purposes only. The use of these scri
 .bypass: Reopen the virus with Admin Perms of the victim's PC.
 ```
 
-Want to access this for free? --> Join our discord! [JOIN NOW](https://discord.gg/2RyM28f3EC)
+Want to access this for free? --> Join our discord! [JOIN NOW](https://discord.gg/kj8CqU77Hj)
